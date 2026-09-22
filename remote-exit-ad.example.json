@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "title": "오늘의 추천 상품",
+  "message": "원격에서 바꿀 광고 문구",
+  "imageUrl": "https://example.com/banner.jpg",
+  "targetUrl": "https://link.coupang.com/a/REPLACE_ME",
+  "buttonText": "쿠팡에서 보기"
+  "buttonText": "쿠팡에서 보기",
+  "dynamicBanner": {
+    "id": 1032265,
+    "template": "carousel",
+    "trackingCode": "AF5894870",
+    "width": 300,
+    "height": 400,
+    "tsource": ""
+  }
+}
